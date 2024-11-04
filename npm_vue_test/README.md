@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### 執行npm方式
+
+- npm create vue@latest
+- cd npm_vue_test
+- npm install
+- npm run dev
